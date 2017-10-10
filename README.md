@@ -1,7 +1,7 @@
 # TweetAtCoderButton
 
 Tweet latest AtCoder contest record with this button!  
-GitHub:[](https://github.com/LumaKernel/TweetAtCoderButton)
+GitHub:[https://github.com/LumaKernel/TweetAtCoderButton](https://github.com/LumaKernel/TweetAtCoderButton)
 
 IT CAN BE AVAILABLE THANKS TO ATCODER.
 
@@ -15,7 +15,7 @@ Open your user page in AtCoder after installing it.
 
 0. TampermonkeyかGreasemonkeyを入れます
 1. [UserScript](https://lumakernel.github.io/TweetAtCoderButton/main.user.js)を開いてください
-2. 自分のユーザーページをAtCoderで開いて見てください(http://atcoder/user/#id)
+2. 自分のユーザーページをAtCoderで開いて見てください(http://atcoder/user/ユーザーID など)
 
 ## スクショ
 
@@ -28,9 +28,15 @@ Open your user page in AtCoder after installing it.
 
 怖い場合はついでにボタンも出てくるので、そこを押してください。
 
+## ブックマークレットもあります
+
+蛇足ですかね
+[ここ](https://lumakernel.github.io/TweetAtCoderButton/bookmarklet.txt)にあります
+
+
 ## その他
 
-バグあったら(https://twitter.com/lumac_)[製作者]まで連絡もらえると助かります!  
+バグあったら(製作者)[https://twitter.com/lumac_]まで連絡もらえると助かります!  
 "perf."とかいうの嫌な場合は、ご自分で調整をおねがいします（スクリプトの割と上の方にあるので書き換えるだけです）
 
 bookmarkletにはuglifyのオンラインサービスを~~適当に~~使っています
