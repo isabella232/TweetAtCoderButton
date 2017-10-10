@@ -24,7 +24,7 @@ Open your user page in AtCoder after installing it.
 ブックマークレット版はwindow.open使っているので、
 ポップアップに関する警告が出る場合があります（下の写真）
 
-![FireFoxでの警告](https://lumakernel.github.io/TweetAtCoderButton/img/screen1.jpg "FireFoxでの警告")
+![FireFoxでの警告](https://lumakernel.github.io/TweetAtCoderButton/img/screen2.jpg "FireFoxでの警告")
 
 怖い場合はついでにボタンも出てくるので、そこを押してください。
 
