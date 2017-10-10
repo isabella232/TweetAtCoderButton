@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         LatestAtCoderTweet
 // @namespace    https://twitter.com/lumac_
-// @version      1.1
+// @version      1.2
 // @description  Tweet latest contest record with this button!
 // @author       Luma
 // @match        http://atcoder.jp/user/*
@@ -60,7 +60,7 @@ https://twitter.com/intent/tweet?original_referer=####url####&text=####text####
     // 最新のコンテストが判明
 
     const latest = allContest[allContest.length - 1];
-    const rated = latest[5] !== "-"
+    const rated = latest[5] !== "-";
     const contestName = latest[1];
 
     const basicData = [].concat(latest);
