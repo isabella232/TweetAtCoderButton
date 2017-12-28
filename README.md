@@ -36,7 +36,7 @@ Open your user page in AtCoder after installing it.
 
 ## その他
 
-バグあったら(製作者)[https://twitter.com/lumac_]まで連絡もらえると助かります!  
+バグあったら製作者(@lumc_)[https://twitter.com/lumc_]まで連絡もらえると助かります!  
 "perf."とかいうの嫌な場合は、ご自分で調整をおねがいします（スクリプトの割と上の方にあるので書き換えるだけです）
 
 bookmarkletにはuglifyのオンラインサービスを~~適当に~~使っています
